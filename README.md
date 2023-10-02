@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, NextJS, Supabase, MongoDB, Firebase**
 
 - 📫 How to reach me **olebigeng@gmail.com**
 
