@@ -1,8 +1,8 @@
 # Hi 👋, I'm Olebogeng Khunou
-### A passionate Software developer from South Africa
+### A passionate Software engineer from South Africa
 <img  width = "50%" align="right" src="https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif" alt="web developer image">
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I am **Software engineering** graduate, currently looking for a job in the tech industry to effectively contribute my skills.
 
 - 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, NextJS, Supabase, MongoDB, Firebase**
 
